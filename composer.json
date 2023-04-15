@@ -12,5 +12,10 @@
         "php": ">=7.4",
         "himanshu-m/accessors": "v0.0.1",
         "himanshu-m/arrays": "v0.0.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "FileSystem\\": "src"
+        }
     }
 }
