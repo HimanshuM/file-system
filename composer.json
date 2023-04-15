@@ -1,0 +1,16 @@
+{
+    "name": "himanshu-m/file-system",
+    "license": "MIT",
+    "keywords": [
+        "file-system",
+        "file",
+        "dir",
+        "object-oriented file"
+    ],
+    "description": "An object oriented implementation of file IO in PHP",
+    "require": {
+        "php": ">=7.4",
+        "himanshu-m/accessors": "v0.0.1",
+        "himanshu-m/arrays": "v0.0.1"
+    }
+}
